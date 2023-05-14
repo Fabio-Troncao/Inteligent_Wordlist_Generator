@@ -1,0 +1,1322 @@
+laranja
+ovo
+LARANJA
+OVO
+_' 
+12
+laranjaovoLARANJAOVO_' 12
+laranjaovoLARANJAOVO12_' 
+laranjaovoLARANJA_' OVO12
+laranjaovoLARANJA_' 12OVO
+laranjaovoLARANJA12OVO_' 
+laranjaovoLARANJA12_' OVO
+laranjaovoOVOLARANJA_' 12
+laranjaovoOVOLARANJA12_' 
+laranjaovoOVO_' LARANJA12
+laranjaovoOVO_' 12LARANJA
+laranjaovoOVO12LARANJA_' 
+laranjaovoOVO12_' LARANJA
+laranjaovo_' LARANJAOVO12
+laranjaovo_' LARANJA12OVO
+laranjaovo_' OVOLARANJA12
+laranjaovo_' OVO12LARANJA
+laranjaovo_' 12LARANJAOVO
+laranjaovo_' 12OVOLARANJA
+laranjaovo12LARANJAOVO_' 
+laranjaovo12LARANJA_' OVO
+laranjaovo12OVOLARANJA_' 
+laranjaovo12OVO_' LARANJA
+laranjaovo12_' LARANJAOVO
+laranjaovo12_' OVOLARANJA
+laranjaLARANJAovoOVO_' 12
+laranjaLARANJAovoOVO12_' 
+laranjaLARANJAovo_' OVO12
+laranjaLARANJAovo_' 12OVO
+laranjaLARANJAovo12OVO_' 
+laranjaLARANJAovo12_' OVO
+laranjaLARANJAOVOovo_' 12
+laranjaLARANJAOVOovo12_' 
+laranjaLARANJAOVO_' ovo12
+laranjaLARANJAOVO_' 12ovo
+laranjaLARANJAOVO12ovo_' 
+laranjaLARANJAOVO12_' ovo
+laranjaLARANJA_' ovoOVO12
+laranjaLARANJA_' ovo12OVO
+laranjaLARANJA_' OVOovo12
+laranjaLARANJA_' OVO12ovo
+laranjaLARANJA_' 12ovoOVO
+laranjaLARANJA_' 12OVOovo
+laranjaLARANJA12ovoOVO_' 
+laranjaLARANJA12ovo_' OVO
+laranjaLARANJA12OVOovo_' 
+laranjaLARANJA12OVO_' ovo
+laranjaLARANJA12_' ovoOVO
+laranjaLARANJA12_' OVOovo
+laranjaOVOovoLARANJA_' 12
+laranjaOVOovoLARANJA12_' 
+laranjaOVOovo_' LARANJA12
+laranjaOVOovo_' 12LARANJA
+laranjaOVOovo12LARANJA_' 
+laranjaOVOovo12_' LARANJA
+laranjaOVOLARANJAovo_' 12
+laranjaOVOLARANJAovo12_' 
+laranjaOVOLARANJA_' ovo12
+laranjaOVOLARANJA_' 12ovo
+laranjaOVOLARANJA12ovo_' 
+laranjaOVOLARANJA12_' ovo
+laranjaOVO_' ovoLARANJA12
+laranjaOVO_' ovo12LARANJA
+laranjaOVO_' LARANJAovo12
+laranjaOVO_' LARANJA12ovo
+laranjaOVO_' 12ovoLARANJA
+laranjaOVO_' 12LARANJAovo
+laranjaOVO12ovoLARANJA_' 
+laranjaOVO12ovo_' LARANJA
+laranjaOVO12LARANJAovo_' 
+laranjaOVO12LARANJA_' ovo
+laranjaOVO12_' ovoLARANJA
+laranjaOVO12_' LARANJAovo
+laranja_' ovoLARANJAOVO12
+laranja_' ovoLARANJA12OVO
+laranja_' ovoOVOLARANJA12
+laranja_' ovoOVO12LARANJA
+laranja_' ovo12LARANJAOVO
+laranja_' ovo12OVOLARANJA
+laranja_' LARANJAovoOVO12
+laranja_' LARANJAovo12OVO
+laranja_' LARANJAOVOovo12
+laranja_' LARANJAOVO12ovo
+laranja_' LARANJA12ovoOVO
+laranja_' LARANJA12OVOovo
+laranja_' OVOovoLARANJA12
+laranja_' OVOovo12LARANJA
+laranja_' OVOLARANJAovo12
+laranja_' OVOLARANJA12ovo
+laranja_' OVO12ovoLARANJA
+laranja_' OVO12LARANJAovo
+laranja_' 12ovoLARANJAOVO
+laranja_' 12ovoOVOLARANJA
+laranja_' 12LARANJAovoOVO
+laranja_' 12LARANJAOVOovo
+laranja_' 12OVOovoLARANJA
+laranja_' 12OVOLARANJAovo
+laranja12ovoLARANJAOVO_' 
+laranja12ovoLARANJA_' OVO
+laranja12ovoOVOLARANJA_' 
+laranja12ovoOVO_' LARANJA
+laranja12ovo_' LARANJAOVO
+laranja12ovo_' OVOLARANJA
+laranja12LARANJAovoOVO_' 
+laranja12LARANJAovo_' OVO
+laranja12LARANJAOVOovo_' 
+laranja12LARANJAOVO_' ovo
+laranja12LARANJA_' ovoOVO
+laranja12LARANJA_' OVOovo
+laranja12OVOovoLARANJA_' 
+laranja12OVOovo_' LARANJA
+laranja12OVOLARANJAovo_' 
+laranja12OVOLARANJA_' ovo
+laranja12OVO_' ovoLARANJA
+laranja12OVO_' LARANJAovo
+laranja12_' ovoLARANJAOVO
+laranja12_' ovoOVOLARANJA
+laranja12_' LARANJAovoOVO
+laranja12_' LARANJAOVOovo
+laranja12_' OVOovoLARANJA
+laranja12_' OVOLARANJAovo
+ovolaranjaLARANJAOVO_' 12
+ovolaranjaLARANJAOVO12_' 
+ovolaranjaLARANJA_' OVO12
+ovolaranjaLARANJA_' 12OVO
+ovolaranjaLARANJA12OVO_' 
+ovolaranjaLARANJA12_' OVO
+ovolaranjaOVOLARANJA_' 12
+ovolaranjaOVOLARANJA12_' 
+ovolaranjaOVO_' LARANJA12
+ovolaranjaOVO_' 12LARANJA
+ovolaranjaOVO12LARANJA_' 
+ovolaranjaOVO12_' LARANJA
+ovolaranja_' LARANJAOVO12
+ovolaranja_' LARANJA12OVO
+ovolaranja_' OVOLARANJA12
+ovolaranja_' OVO12LARANJA
+ovolaranja_' 12LARANJAOVO
+ovolaranja_' 12OVOLARANJA
+ovolaranja12LARANJAOVO_' 
+ovolaranja12LARANJA_' OVO
+ovolaranja12OVOLARANJA_' 
+ovolaranja12OVO_' LARANJA
+ovolaranja12_' LARANJAOVO
+ovolaranja12_' OVOLARANJA
+ovoLARANJAlaranjaOVO_' 12
+ovoLARANJAlaranjaOVO12_' 
+ovoLARANJAlaranja_' OVO12
+ovoLARANJAlaranja_' 12OVO
+ovoLARANJAlaranja12OVO_' 
+ovoLARANJAlaranja12_' OVO
+ovoLARANJAOVOlaranja_' 12
+ovoLARANJAOVOlaranja12_' 
+ovoLARANJAOVO_' laranja12
+ovoLARANJAOVO_' 12laranja
+ovoLARANJAOVO12laranja_' 
+ovoLARANJAOVO12_' laranja
+ovoLARANJA_' laranjaOVO12
+ovoLARANJA_' laranja12OVO
+ovoLARANJA_' OVOlaranja12
+ovoLARANJA_' OVO12laranja
+ovoLARANJA_' 12laranjaOVO
+ovoLARANJA_' 12OVOlaranja
+ovoLARANJA12laranjaOVO_' 
+ovoLARANJA12laranja_' OVO
+ovoLARANJA12OVOlaranja_' 
+ovoLARANJA12OVO_' laranja
+ovoLARANJA12_' laranjaOVO
+ovoLARANJA12_' OVOlaranja
+ovoOVOlaranjaLARANJA_' 12
+ovoOVOlaranjaLARANJA12_' 
+ovoOVOlaranja_' LARANJA12
+ovoOVOlaranja_' 12LARANJA
+ovoOVOlaranja12LARANJA_' 
+ovoOVOlaranja12_' LARANJA
+ovoOVOLARANJAlaranja_' 12
+ovoOVOLARANJAlaranja12_' 
+ovoOVOLARANJA_' laranja12
+ovoOVOLARANJA_' 12laranja
+ovoOVOLARANJA12laranja_' 
+ovoOVOLARANJA12_' laranja
+ovoOVO_' laranjaLARANJA12
+ovoOVO_' laranja12LARANJA
+ovoOVO_' LARANJAlaranja12
+ovoOVO_' LARANJA12laranja
+ovoOVO_' 12laranjaLARANJA
+ovoOVO_' 12LARANJAlaranja
+ovoOVO12laranjaLARANJA_' 
+ovoOVO12laranja_' LARANJA
+ovoOVO12LARANJAlaranja_' 
+ovoOVO12LARANJA_' laranja
+ovoOVO12_' laranjaLARANJA
+ovoOVO12_' LARANJAlaranja
+ovo_' laranjaLARANJAOVO12
+ovo_' laranjaLARANJA12OVO
+ovo_' laranjaOVOLARANJA12
+ovo_' laranjaOVO12LARANJA
+ovo_' laranja12LARANJAOVO
+ovo_' laranja12OVOLARANJA
+ovo_' LARANJAlaranjaOVO12
+ovo_' LARANJAlaranja12OVO
+ovo_' LARANJAOVOlaranja12
+ovo_' LARANJAOVO12laranja
+ovo_' LARANJA12laranjaOVO
+ovo_' LARANJA12OVOlaranja
+ovo_' OVOlaranjaLARANJA12
+ovo_' OVOlaranja12LARANJA
+ovo_' OVOLARANJAlaranja12
+ovo_' OVOLARANJA12laranja
+ovo_' OVO12laranjaLARANJA
+ovo_' OVO12LARANJAlaranja
+ovo_' 12laranjaLARANJAOVO
+ovo_' 12laranjaOVOLARANJA
+ovo_' 12LARANJAlaranjaOVO
+ovo_' 12LARANJAOVOlaranja
+ovo_' 12OVOlaranjaLARANJA
+ovo_' 12OVOLARANJAlaranja
+ovo12laranjaLARANJAOVO_' 
+ovo12laranjaLARANJA_' OVO
+ovo12laranjaOVOLARANJA_' 
+ovo12laranjaOVO_' LARANJA
+ovo12laranja_' LARANJAOVO
+ovo12laranja_' OVOLARANJA
+ovo12LARANJAlaranjaOVO_' 
+ovo12LARANJAlaranja_' OVO
+ovo12LARANJAOVOlaranja_' 
+ovo12LARANJAOVO_' laranja
+ovo12LARANJA_' laranjaOVO
+ovo12LARANJA_' OVOlaranja
+ovo12OVOlaranjaLARANJA_' 
+ovo12OVOlaranja_' LARANJA
+ovo12OVOLARANJAlaranja_' 
+ovo12OVOLARANJA_' laranja
+ovo12OVO_' laranjaLARANJA
+ovo12OVO_' LARANJAlaranja
+ovo12_' laranjaLARANJAOVO
+ovo12_' laranjaOVOLARANJA
+ovo12_' LARANJAlaranjaOVO
+ovo12_' LARANJAOVOlaranja
+ovo12_' OVOlaranjaLARANJA
+ovo12_' OVOLARANJAlaranja
+LARANJAlaranjaovoOVO_' 12
+LARANJAlaranjaovoOVO12_' 
+LARANJAlaranjaovo_' OVO12
+LARANJAlaranjaovo_' 12OVO
+LARANJAlaranjaovo12OVO_' 
+LARANJAlaranjaovo12_' OVO
+LARANJAlaranjaOVOovo_' 12
+LARANJAlaranjaOVOovo12_' 
+LARANJAlaranjaOVO_' ovo12
+LARANJAlaranjaOVO_' 12ovo
+LARANJAlaranjaOVO12ovo_' 
+LARANJAlaranjaOVO12_' ovo
+LARANJAlaranja_' ovoOVO12
+LARANJAlaranja_' ovo12OVO
+LARANJAlaranja_' OVOovo12
+LARANJAlaranja_' OVO12ovo
+LARANJAlaranja_' 12ovoOVO
+LARANJAlaranja_' 12OVOovo
+LARANJAlaranja12ovoOVO_' 
+LARANJAlaranja12ovo_' OVO
+LARANJAlaranja12OVOovo_' 
+LARANJAlaranja12OVO_' ovo
+LARANJAlaranja12_' ovoOVO
+LARANJAlaranja12_' OVOovo
+LARANJAovolaranjaOVO_' 12
+LARANJAovolaranjaOVO12_' 
+LARANJAovolaranja_' OVO12
+LARANJAovolaranja_' 12OVO
+LARANJAovolaranja12OVO_' 
+LARANJAovolaranja12_' OVO
+LARANJAovoOVOlaranja_' 12
+LARANJAovoOVOlaranja12_' 
+LARANJAovoOVO_' laranja12
+LARANJAovoOVO_' 12laranja
+LARANJAovoOVO12laranja_' 
+LARANJAovoOVO12_' laranja
+LARANJAovo_' laranjaOVO12
+LARANJAovo_' laranja12OVO
+LARANJAovo_' OVOlaranja12
+LARANJAovo_' OVO12laranja
+LARANJAovo_' 12laranjaOVO
+LARANJAovo_' 12OVOlaranja
+LARANJAovo12laranjaOVO_' 
+LARANJAovo12laranja_' OVO
+LARANJAovo12OVOlaranja_' 
+LARANJAovo12OVO_' laranja
+LARANJAovo12_' laranjaOVO
+LARANJAovo12_' OVOlaranja
+LARANJAOVOlaranjaovo_' 12
+LARANJAOVOlaranjaovo12_' 
+LARANJAOVOlaranja_' ovo12
+LARANJAOVOlaranja_' 12ovo
+LARANJAOVOlaranja12ovo_' 
+LARANJAOVOlaranja12_' ovo
+LARANJAOVOovolaranja_' 12
+LARANJAOVOovolaranja12_' 
+LARANJAOVOovo_' laranja12
+LARANJAOVOovo_' 12laranja
+LARANJAOVOovo12laranja_' 
+LARANJAOVOovo12_' laranja
+LARANJAOVO_' laranjaovo12
+LARANJAOVO_' laranja12ovo
+LARANJAOVO_' ovolaranja12
+LARANJAOVO_' ovo12laranja
+LARANJAOVO_' 12laranjaovo
+LARANJAOVO_' 12ovolaranja
+LARANJAOVO12laranjaovo_' 
+LARANJAOVO12laranja_' ovo
+LARANJAOVO12ovolaranja_' 
+LARANJAOVO12ovo_' laranja
+LARANJAOVO12_' laranjaovo
+LARANJAOVO12_' ovolaranja
+LARANJA_' laranjaovoOVO12
+LARANJA_' laranjaovo12OVO
+LARANJA_' laranjaOVOovo12
+LARANJA_' laranjaOVO12ovo
+LARANJA_' laranja12ovoOVO
+LARANJA_' laranja12OVOovo
+LARANJA_' ovolaranjaOVO12
+LARANJA_' ovolaranja12OVO
+LARANJA_' ovoOVOlaranja12
+LARANJA_' ovoOVO12laranja
+LARANJA_' ovo12laranjaOVO
+LARANJA_' ovo12OVOlaranja
+LARANJA_' OVOlaranjaovo12
+LARANJA_' OVOlaranja12ovo
+LARANJA_' OVOovolaranja12
+LARANJA_' OVOovo12laranja
+LARANJA_' OVO12laranjaovo
+LARANJA_' OVO12ovolaranja
+LARANJA_' 12laranjaovoOVO
+LARANJA_' 12laranjaOVOovo
+LARANJA_' 12ovolaranjaOVO
+LARANJA_' 12ovoOVOlaranja
+LARANJA_' 12OVOlaranjaovo
+LARANJA_' 12OVOovolaranja
+LARANJA12laranjaovoOVO_' 
+LARANJA12laranjaovo_' OVO
+LARANJA12laranjaOVOovo_' 
+LARANJA12laranjaOVO_' ovo
+LARANJA12laranja_' ovoOVO
+LARANJA12laranja_' OVOovo
+LARANJA12ovolaranjaOVO_' 
+LARANJA12ovolaranja_' OVO
+LARANJA12ovoOVOlaranja_' 
+LARANJA12ovoOVO_' laranja
+LARANJA12ovo_' laranjaOVO
+LARANJA12ovo_' OVOlaranja
+LARANJA12OVOlaranjaovo_' 
+LARANJA12OVOlaranja_' ovo
+LARANJA12OVOovolaranja_' 
+LARANJA12OVOovo_' laranja
+LARANJA12OVO_' laranjaovo
+LARANJA12OVO_' ovolaranja
+LARANJA12_' laranjaovoOVO
+LARANJA12_' laranjaOVOovo
+LARANJA12_' ovolaranjaOVO
+LARANJA12_' ovoOVOlaranja
+LARANJA12_' OVOlaranjaovo
+LARANJA12_' OVOovolaranja
+OVOlaranjaovoLARANJA_' 12
+OVOlaranjaovoLARANJA12_' 
+OVOlaranjaovo_' LARANJA12
+OVOlaranjaovo_' 12LARANJA
+OVOlaranjaovo12LARANJA_' 
+OVOlaranjaovo12_' LARANJA
+OVOlaranjaLARANJAovo_' 12
+OVOlaranjaLARANJAovo12_' 
+OVOlaranjaLARANJA_' ovo12
+OVOlaranjaLARANJA_' 12ovo
+OVOlaranjaLARANJA12ovo_' 
+OVOlaranjaLARANJA12_' ovo
+OVOlaranja_' ovoLARANJA12
+OVOlaranja_' ovo12LARANJA
+OVOlaranja_' LARANJAovo12
+OVOlaranja_' LARANJA12ovo
+OVOlaranja_' 12ovoLARANJA
+OVOlaranja_' 12LARANJAovo
+OVOlaranja12ovoLARANJA_' 
+OVOlaranja12ovo_' LARANJA
+OVOlaranja12LARANJAovo_' 
+OVOlaranja12LARANJA_' ovo
+OVOlaranja12_' ovoLARANJA
+OVOlaranja12_' LARANJAovo
+OVOovolaranjaLARANJA_' 12
+OVOovolaranjaLARANJA12_' 
+OVOovolaranja_' LARANJA12
+OVOovolaranja_' 12LARANJA
+OVOovolaranja12LARANJA_' 
+OVOovolaranja12_' LARANJA
+OVOovoLARANJAlaranja_' 12
+OVOovoLARANJAlaranja12_' 
+OVOovoLARANJA_' laranja12
+OVOovoLARANJA_' 12laranja
+OVOovoLARANJA12laranja_' 
+OVOovoLARANJA12_' laranja
+OVOovo_' laranjaLARANJA12
+OVOovo_' laranja12LARANJA
+OVOovo_' LARANJAlaranja12
+OVOovo_' LARANJA12laranja
+OVOovo_' 12laranjaLARANJA
+OVOovo_' 12LARANJAlaranja
+OVOovo12laranjaLARANJA_' 
+OVOovo12laranja_' LARANJA
+OVOovo12LARANJAlaranja_' 
+OVOovo12LARANJA_' laranja
+OVOovo12_' laranjaLARANJA
+OVOovo12_' LARANJAlaranja
+OVOLARANJAlaranjaovo_' 12
+OVOLARANJAlaranjaovo12_' 
+OVOLARANJAlaranja_' ovo12
+OVOLARANJAlaranja_' 12ovo
+OVOLARANJAlaranja12ovo_' 
+OVOLARANJAlaranja12_' ovo
+OVOLARANJAovolaranja_' 12
+OVOLARANJAovolaranja12_' 
+OVOLARANJAovo_' laranja12
+OVOLARANJAovo_' 12laranja
+OVOLARANJAovo12laranja_' 
+OVOLARANJAovo12_' laranja
+OVOLARANJA_' laranjaovo12
+OVOLARANJA_' laranja12ovo
+OVOLARANJA_' ovolaranja12
+OVOLARANJA_' ovo12laranja
+OVOLARANJA_' 12laranjaovo
+OVOLARANJA_' 12ovolaranja
+OVOLARANJA12laranjaovo_' 
+OVOLARANJA12laranja_' ovo
+OVOLARANJA12ovolaranja_' 
+OVOLARANJA12ovo_' laranja
+OVOLARANJA12_' laranjaovo
+OVOLARANJA12_' ovolaranja
+OVO_' laranjaovoLARANJA12
+OVO_' laranjaovo12LARANJA
+OVO_' laranjaLARANJAovo12
+OVO_' laranjaLARANJA12ovo
+OVO_' laranja12ovoLARANJA
+OVO_' laranja12LARANJAovo
+OVO_' ovolaranjaLARANJA12
+OVO_' ovolaranja12LARANJA
+OVO_' ovoLARANJAlaranja12
+OVO_' ovoLARANJA12laranja
+OVO_' ovo12laranjaLARANJA
+OVO_' ovo12LARANJAlaranja
+OVO_' LARANJAlaranjaovo12
+OVO_' LARANJAlaranja12ovo
+OVO_' LARANJAovolaranja12
+OVO_' LARANJAovo12laranja
+OVO_' LARANJA12laranjaovo
+OVO_' LARANJA12ovolaranja
+OVO_' 12laranjaovoLARANJA
+OVO_' 12laranjaLARANJAovo
+OVO_' 12ovolaranjaLARANJA
+OVO_' 12ovoLARANJAlaranja
+OVO_' 12LARANJAlaranjaovo
+OVO_' 12LARANJAovolaranja
+OVO12laranjaovoLARANJA_' 
+OVO12laranjaovo_' LARANJA
+OVO12laranjaLARANJAovo_' 
+OVO12laranjaLARANJA_' ovo
+OVO12laranja_' ovoLARANJA
+OVO12laranja_' LARANJAovo
+OVO12ovolaranjaLARANJA_' 
+OVO12ovolaranja_' LARANJA
+OVO12ovoLARANJAlaranja_' 
+OVO12ovoLARANJA_' laranja
+OVO12ovo_' laranjaLARANJA
+OVO12ovo_' LARANJAlaranja
+OVO12LARANJAlaranjaovo_' 
+OVO12LARANJAlaranja_' ovo
+OVO12LARANJAovolaranja_' 
+OVO12LARANJAovo_' laranja
+OVO12LARANJA_' laranjaovo
+OVO12LARANJA_' ovolaranja
+OVO12_' laranjaovoLARANJA
+OVO12_' laranjaLARANJAovo
+OVO12_' ovolaranjaLARANJA
+OVO12_' ovoLARANJAlaranja
+OVO12_' LARANJAlaranjaovo
+OVO12_' LARANJAovolaranja
+_' laranjaovoLARANJAOVO12
+_' laranjaovoLARANJA12OVO
+_' laranjaovoOVOLARANJA12
+_' laranjaovoOVO12LARANJA
+_' laranjaovo12LARANJAOVO
+_' laranjaovo12OVOLARANJA
+_' laranjaLARANJAovoOVO12
+_' laranjaLARANJAovo12OVO
+_' laranjaLARANJAOVOovo12
+_' laranjaLARANJAOVO12ovo
+_' laranjaLARANJA12ovoOVO
+_' laranjaLARANJA12OVOovo
+_' laranjaOVOovoLARANJA12
+_' laranjaOVOovo12LARANJA
+_' laranjaOVOLARANJAovo12
+_' laranjaOVOLARANJA12ovo
+_' laranjaOVO12ovoLARANJA
+_' laranjaOVO12LARANJAovo
+_' laranja12ovoLARANJAOVO
+_' laranja12ovoOVOLARANJA
+_' laranja12LARANJAovoOVO
+_' laranja12LARANJAOVOovo
+_' laranja12OVOovoLARANJA
+_' laranja12OVOLARANJAovo
+_' ovolaranjaLARANJAOVO12
+_' ovolaranjaLARANJA12OVO
+_' ovolaranjaOVOLARANJA12
+_' ovolaranjaOVO12LARANJA
+_' ovolaranja12LARANJAOVO
+_' ovolaranja12OVOLARANJA
+_' ovoLARANJAlaranjaOVO12
+_' ovoLARANJAlaranja12OVO
+_' ovoLARANJAOVOlaranja12
+_' ovoLARANJAOVO12laranja
+_' ovoLARANJA12laranjaOVO
+_' ovoLARANJA12OVOlaranja
+_' ovoOVOlaranjaLARANJA12
+_' ovoOVOlaranja12LARANJA
+_' ovoOVOLARANJAlaranja12
+_' ovoOVOLARANJA12laranja
+_' ovoOVO12laranjaLARANJA
+_' ovoOVO12LARANJAlaranja
+_' ovo12laranjaLARANJAOVO
+_' ovo12laranjaOVOLARANJA
+_' ovo12LARANJAlaranjaOVO
+_' ovo12LARANJAOVOlaranja
+_' ovo12OVOlaranjaLARANJA
+_' ovo12OVOLARANJAlaranja
+_' LARANJAlaranjaovoOVO12
+_' LARANJAlaranjaovo12OVO
+_' LARANJAlaranjaOVOovo12
+_' LARANJAlaranjaOVO12ovo
+_' LARANJAlaranja12ovoOVO
+_' LARANJAlaranja12OVOovo
+_' LARANJAovolaranjaOVO12
+_' LARANJAovolaranja12OVO
+_' LARANJAovoOVOlaranja12
+_' LARANJAovoOVO12laranja
+_' LARANJAovo12laranjaOVO
+_' LARANJAovo12OVOlaranja
+_' LARANJAOVOlaranjaovo12
+_' LARANJAOVOlaranja12ovo
+_' LARANJAOVOovolaranja12
+_' LARANJAOVOovo12laranja
+_' LARANJAOVO12laranjaovo
+_' LARANJAOVO12ovolaranja
+_' LARANJA12laranjaovoOVO
+_' LARANJA12laranjaOVOovo
+_' LARANJA12ovolaranjaOVO
+_' LARANJA12ovoOVOlaranja
+_' LARANJA12OVOlaranjaovo
+_' LARANJA12OVOovolaranja
+_' OVOlaranjaovoLARANJA12
+_' OVOlaranjaovo12LARANJA
+_' OVOlaranjaLARANJAovo12
+_' OVOlaranjaLARANJA12ovo
+_' OVOlaranja12ovoLARANJA
+_' OVOlaranja12LARANJAovo
+_' OVOovolaranjaLARANJA12
+_' OVOovolaranja12LARANJA
+_' OVOovoLARANJAlaranja12
+_' OVOovoLARANJA12laranja
+_' OVOovo12laranjaLARANJA
+_' OVOovo12LARANJAlaranja
+_' OVOLARANJAlaranjaovo12
+_' OVOLARANJAlaranja12ovo
+_' OVOLARANJAovolaranja12
+_' OVOLARANJAovo12laranja
+_' OVOLARANJA12laranjaovo
+_' OVOLARANJA12ovolaranja
+_' OVO12laranjaovoLARANJA
+_' OVO12laranjaLARANJAovo
+_' OVO12ovolaranjaLARANJA
+_' OVO12ovoLARANJAlaranja
+_' OVO12LARANJAlaranjaovo
+_' OVO12LARANJAovolaranja
+_' 12laranjaovoLARANJAOVO
+_' 12laranjaovoOVOLARANJA
+_' 12laranjaLARANJAovoOVO
+_' 12laranjaLARANJAOVOovo
+_' 12laranjaOVOovoLARANJA
+_' 12laranjaOVOLARANJAovo
+_' 12ovolaranjaLARANJAOVO
+_' 12ovolaranjaOVOLARANJA
+_' 12ovoLARANJAlaranjaOVO
+_' 12ovoLARANJAOVOlaranja
+_' 12ovoOVOlaranjaLARANJA
+_' 12ovoOVOLARANJAlaranja
+_' 12LARANJAlaranjaovoOVO
+_' 12LARANJAlaranjaOVOovo
+_' 12LARANJAovolaranjaOVO
+_' 12LARANJAovoOVOlaranja
+_' 12LARANJAOVOlaranjaovo
+_' 12LARANJAOVOovolaranja
+_' 12OVOlaranjaovoLARANJA
+_' 12OVOlaranjaLARANJAovo
+_' 12OVOovolaranjaLARANJA
+_' 12OVOovoLARANJAlaranja
+_' 12OVOLARANJAlaranjaovo
+_' 12OVOLARANJAovolaranja
+12laranjaovoLARANJAOVO_' 
+12laranjaovoLARANJA_' OVO
+12laranjaovoOVOLARANJA_' 
+12laranjaovoOVO_' LARANJA
+12laranjaovo_' LARANJAOVO
+12laranjaovo_' OVOLARANJA
+12laranjaLARANJAovoOVO_' 
+12laranjaLARANJAovo_' OVO
+12laranjaLARANJAOVOovo_' 
+12laranjaLARANJAOVO_' ovo
+12laranjaLARANJA_' ovoOVO
+12laranjaLARANJA_' OVOovo
+12laranjaOVOovoLARANJA_' 
+12laranjaOVOovo_' LARANJA
+12laranjaOVOLARANJAovo_' 
+12laranjaOVOLARANJA_' ovo
+12laranjaOVO_' ovoLARANJA
+12laranjaOVO_' LARANJAovo
+12laranja_' ovoLARANJAOVO
+12laranja_' ovoOVOLARANJA
+12laranja_' LARANJAovoOVO
+12laranja_' LARANJAOVOovo
+12laranja_' OVOovoLARANJA
+12laranja_' OVOLARANJAovo
+12ovolaranjaLARANJAOVO_' 
+12ovolaranjaLARANJA_' OVO
+12ovolaranjaOVOLARANJA_' 
+12ovolaranjaOVO_' LARANJA
+12ovolaranja_' LARANJAOVO
+12ovolaranja_' OVOLARANJA
+12ovoLARANJAlaranjaOVO_' 
+12ovoLARANJAlaranja_' OVO
+12ovoLARANJAOVOlaranja_' 
+12ovoLARANJAOVO_' laranja
+12ovoLARANJA_' laranjaOVO
+12ovoLARANJA_' OVOlaranja
+12ovoOVOlaranjaLARANJA_' 
+12ovoOVOlaranja_' LARANJA
+12ovoOVOLARANJAlaranja_' 
+12ovoOVOLARANJA_' laranja
+12ovoOVO_' laranjaLARANJA
+12ovoOVO_' LARANJAlaranja
+12ovo_' laranjaLARANJAOVO
+12ovo_' laranjaOVOLARANJA
+12ovo_' LARANJAlaranjaOVO
+12ovo_' LARANJAOVOlaranja
+12ovo_' OVOlaranjaLARANJA
+12ovo_' OVOLARANJAlaranja
+12LARANJAlaranjaovoOVO_' 
+12LARANJAlaranjaovo_' OVO
+12LARANJAlaranjaOVOovo_' 
+12LARANJAlaranjaOVO_' ovo
+12LARANJAlaranja_' ovoOVO
+12LARANJAlaranja_' OVOovo
+12LARANJAovolaranjaOVO_' 
+12LARANJAovolaranja_' OVO
+12LARANJAovoOVOlaranja_' 
+12LARANJAovoOVO_' laranja
+12LARANJAovo_' laranjaOVO
+12LARANJAovo_' OVOlaranja
+12LARANJAOVOlaranjaovo_' 
+12LARANJAOVOlaranja_' ovo
+12LARANJAOVOovolaranja_' 
+12LARANJAOVOovo_' laranja
+12LARANJAOVO_' laranjaovo
+12LARANJAOVO_' ovolaranja
+12LARANJA_' laranjaovoOVO
+12LARANJA_' laranjaOVOovo
+12LARANJA_' ovolaranjaOVO
+12LARANJA_' ovoOVOlaranja
+12LARANJA_' OVOlaranjaovo
+12LARANJA_' OVOovolaranja
+12OVOlaranjaovoLARANJA_' 
+12OVOlaranjaovo_' LARANJA
+12OVOlaranjaLARANJAovo_' 
+12OVOlaranjaLARANJA_' ovo
+12OVOlaranja_' ovoLARANJA
+12OVOlaranja_' LARANJAovo
+12OVOovolaranjaLARANJA_' 
+12OVOovolaranja_' LARANJA
+12OVOovoLARANJAlaranja_' 
+12OVOovoLARANJA_' laranja
+12OVOovo_' laranjaLARANJA
+12OVOovo_' LARANJAlaranja
+12OVOLARANJAlaranjaovo_' 
+12OVOLARANJAlaranja_' ovo
+12OVOLARANJAovolaranja_' 
+12OVOLARANJAovo_' laranja
+12OVOLARANJA_' laranjaovo
+12OVOLARANJA_' ovolaranja
+12OVO_' laranjaovoLARANJA
+12OVO_' laranjaLARANJAovo
+12OVO_' ovolaranjaLARANJA
+12OVO_' ovoLARANJAlaranja
+12OVO_' LARANJAlaranjaovo
+12OVO_' LARANJAovolaranja
+12_' laranjaovoLARANJAOVO
+12_' laranjaovoOVOLARANJA
+12_' laranjaLARANJAovoOVO
+12_' laranjaLARANJAOVOovo
+12_' laranjaOVOovoLARANJA
+12_' laranjaOVOLARANJAovo
+12_' ovolaranjaLARANJAOVO
+12_' ovolaranjaOVOLARANJA
+12_' ovoLARANJAlaranjaOVO
+12_' ovoLARANJAOVOlaranja
+12_' ovoOVOlaranjaLARANJA
+12_' ovoOVOLARANJAlaranja
+12_' LARANJAlaranjaovoOVO
+12_' LARANJAlaranjaOVOovo
+12_' LARANJAovolaranjaOVO
+12_' LARANJAovoOVOlaranja
+12_' LARANJAOVOlaranjaovo
+12_' LARANJAOVOovolaranja
+12_' OVOlaranjaovoLARANJA
+12_' OVOlaranjaLARANJAovo
+12_' OVOovolaranjaLARANJA
+12_' OVOovoLARANJAlaranja
+12_' OVOLARANJAlaranjaovo
+12_' OVOLARANJAovolaranja
+laranjaovo
+laranjaLARANJA
+laranjaOVO
+laranja_' 
+laranja12
+ovoLARANJA
+ovoOVO
+ovo_' 
+ovo12
+LARANJAOVO
+LARANJA_' 
+LARANJA12
+OVO_' 
+OVO12
+_' 12
+laranjaovoLARANJA
+laranjaovoOVO
+laranjaovo_' 
+laranjaovo12
+laranjaLARANJAOVO
+laranjaLARANJA_' 
+laranjaLARANJA12
+laranjaOVO_' 
+laranjaOVO12
+laranja_' 12
+ovoLARANJAOVO
+ovoLARANJA_' 
+ovoLARANJA12
+ovoOVO_' 
+ovoOVO12
+ovo_' 12
+LARANJAOVO_' 
+LARANJAOVO12
+LARANJA_' 12
+OVO_' 12
+laranjaovoLARANJAOVO
+laranjaovoLARANJA_' 
+laranjaovoLARANJA12
+laranjaovoOVO_' 
+laranjaovoOVO12
+laranjaovo_' 12
+laranjaLARANJAOVO_' 
+laranjaLARANJAOVO12
+laranjaLARANJA_' 12
+laranjaOVO_' 12
+ovoLARANJAOVO_' 
+ovoLARANJAOVO12
+ovoLARANJA_' 12
+ovoOVO_' 12
+LARANJAOVO_' 12
+laranjaovoLARANJAOVO_' 
+laranjaovoLARANJAOVO12
+laranjaovoLARANJA_' 12
+laranjaovoOVO_' 12
+laranjaLARANJAOVO_' 12
+ovoLARANJAOVO_' 12
+laranjaovoLARANJAOVO_' 12
+12aranja
+laranjalaranja
+ovolaranja
+LARANJAlaranja
+OVOlaranja
+_' laranja
+12laranja
+LARANJAranja
+laranjalaranja
+ovolaranja
+LARANJAlaranja
+OVOlaranja
+_' laranja
+12laranja
+ovoanja
+laranjalaranja
+ovolaranja
+LARANJAlaranja
+OVOlaranja
+_' laranja
+12laranja
+ovonja
+laranjalaranja
+ovolaranja
+LARANJAlaranja
+OVOlaranja
+_' laranja
+12laranja
+LARANJAja
+laranjalaranja
+ovolaranja
+LARANJAlaranja
+OVOlaranja
+_' laranja
+12laranja
+ovoa
+laranjalaranja
+ovolaranja
+LARANJAlaranja
+OVOlaranja
+_' laranja
+12laranja
+laranja
+laranjalaranja
+ovolaranja
+LARANJAlaranja
+OVOlaranja
+_' laranja
+12laranja
+lovoranja
+llaranjaaranja
+lovoaranja
+lLARANJAaranja
+lOVOaranja
+l_' aranja
+l12aranja
+l12anja
+llaranjaaranja
+lovoaranja
+lLARANJAaranja
+lOVOaranja
+l_' aranja
+l12aranja
+l12nja
+llaranjaaranja
+lovoaranja
+lLARANJAaranja
+lOVOaranja
+l_' aranja
+l12aranja
+lLARANJAja
+llaranjaaranja
+lovoaranja
+lLARANJAaranja
+lOVOaranja
+l_' aranja
+l12aranja
+lOVOa
+llaranjaaranja
+lovoaranja
+lLARANJAaranja
+lOVOaranja
+l_' aranja
+l12aranja
+lLARANJA
+llaranjaaranja
+lovoaranja
+lLARANJAaranja
+lOVOaranja
+l_' aranja
+l12aranja
+la_' anja
+lalaranjaranja
+laovoranja
+laLARANJAranja
+laOVOranja
+la_' ranja
+la12ranja
+la_' nja
+lalaranjaranja
+laovoranja
+laLARANJAranja
+laOVOranja
+la_' ranja
+la12ranja
+laLARANJAja
+lalaranjaranja
+laovoranja
+laLARANJAranja
+laOVOranja
+la_' ranja
+la12ranja
+lalaranjaa
+lalaranjaranja
+laovoranja
+laLARANJAranja
+laOVOranja
+la_' ranja
+la12ranja
+laOVO
+lalaranjaranja
+laovoranja
+laLARANJAranja
+laOVOranja
+la_' ranja
+la12ranja
+larovonja
+larlaranjaanja
+larovoanja
+larLARANJAanja
+larOVOanja
+lar_' anja
+lar12anja
+larlaranjaja
+larlaranjaanja
+larovoanja
+larLARANJAanja
+larOVOanja
+lar_' anja
+lar12anja
+lar12a
+larlaranjaanja
+larovoanja
+larLARANJAanja
+larOVOanja
+lar_' anja
+lar12anja
+lar12
+larlaranjaanja
+larovoanja
+larLARANJAanja
+larOVOanja
+lar_' anja
+lar12anja
+laralaranjaja
+laralaranjanja
+laraovonja
+laraLARANJAnja
+laraOVOnja
+lara_' nja
+lara12nja
+lara_' a
+laralaranjanja
+laraovonja
+laraLARANJAnja
+laraOVOnja
+lara_' nja
+lara12nja
+laraOVO
+laralaranjanja
+laraovonja
+laraLARANJAnja
+laraOVOnja
+lara_' nja
+lara12nja
+laranlaranjaa
+laranlaranjaja
+laranovoja
+laranLARANJAja
+laranOVOja
+laran_' ja
+laran12ja
+laranovo
+laranlaranjaja
+laranovoja
+laranLARANJAja
+laranOVOja
+laran_' ja
+laran12ja
+laranjOVO
+laranjlaranjaa
+laranjovoa
+laranjLARANJAa
+laranjOVOa
+laranj_' a
+laranj12a
+ovovo
+laranjaovo
+ovoovo
+LARANJAovo
+OVOovo
+_' ovo
+12ovo
+LARANJAo
+laranjaovo
+ovoovo
+LARANJAovo
+OVOovo
+_' ovo
+12ovo
+laranja
+laranjaovo
+ovoovo
+LARANJAovo
+OVOovo
+_' ovo
+12ovo
+oOVOo
+olaranjavo
+oovovo
+oLARANJAvo
+oOVOvo
+o_' vo
+o12vo
+o12
+olaranjavo
+oovovo
+oLARANJAvo
+oOVOvo
+o_' vo
+o12vo
+ovovo
+ovlaranjao
+ovovoo
+ovLARANJAo
+ovOVOo
+ov_' o
+ov12o
+LARANJAARANJA
+laranjaLARANJA
+ovoLARANJA
+LARANJALARANJA
+OVOLARANJA
+_' LARANJA
+12LARANJA
+12RANJA
+laranjaLARANJA
+ovoLARANJA
+LARANJALARANJA
+OVOLARANJA
+_' LARANJA
+12LARANJA
+12ANJA
+laranjaLARANJA
+ovoLARANJA
+LARANJALARANJA
+OVOLARANJA
+_' LARANJA
+12LARANJA
+ovoNJA
+laranjaLARANJA
+ovoLARANJA
+LARANJALARANJA
+OVOLARANJA
+_' LARANJA
+12LARANJA
+LARANJAJA
+laranjaLARANJA
+ovoLARANJA
+LARANJALARANJA
+OVOLARANJA
+_' LARANJA
+12LARANJA
+LARANJAA
+laranjaLARANJA
+ovoLARANJA
+LARANJALARANJA
+OVOLARANJA
+_' LARANJA
+12LARANJA
+OVO
+laranjaLARANJA
+ovoLARANJA
+LARANJALARANJA
+OVOLARANJA
+_' LARANJA
+12LARANJA
+LOVORANJA
+LlaranjaARANJA
+LovoARANJA
+LLARANJAARANJA
+LOVOARANJA
+L_' ARANJA
+L12ARANJA
+L12ANJA
+LlaranjaARANJA
+LovoARANJA
+LLARANJAARANJA
+LOVOARANJA
+L_' ARANJA
+L12ARANJA
+LLARANJANJA
+LlaranjaARANJA
+LovoARANJA
+LLARANJAARANJA
+LOVOARANJA
+L_' ARANJA
+L12ARANJA
+LlaranjaJA
+LlaranjaARANJA
+LovoARANJA
+LLARANJAARANJA
+LOVOARANJA
+L_' ARANJA
+L12ARANJA
+LLARANJAA
+LlaranjaARANJA
+LovoARANJA
+LLARANJAARANJA
+LOVOARANJA
+L_' ARANJA
+L12ARANJA
+L12
+LlaranjaARANJA
+LovoARANJA
+LLARANJAARANJA
+LOVOARANJA
+L_' ARANJA
+L12ARANJA
+LALARANJAANJA
+LAlaranjaRANJA
+LAovoRANJA
+LALARANJARANJA
+LAOVORANJA
+LA_' RANJA
+LA12RANJA
+LAOVONJA
+LAlaranjaRANJA
+LAovoRANJA
+LALARANJARANJA
+LAOVORANJA
+LA_' RANJA
+LA12RANJA
+LA12JA
+LAlaranjaRANJA
+LAovoRANJA
+LALARANJARANJA
+LAOVORANJA
+LA_' RANJA
+LA12RANJA
+LA_' A
+LAlaranjaRANJA
+LAovoRANJA
+LALARANJARANJA
+LAOVORANJA
+LA_' RANJA
+LA12RANJA
+LA12
+LAlaranjaRANJA
+LAovoRANJA
+LALARANJARANJA
+LAOVORANJA
+LA_' RANJA
+LA12RANJA
+LARlaranjaNJA
+LARlaranjaANJA
+LARovoANJA
+LARLARANJAANJA
+LAROVOANJA
+LAR_' ANJA
+LAR12ANJA
+LAR12JA
+LARlaranjaANJA
+LARovoANJA
+LARLARANJAANJA
+LAROVOANJA
+LAR_' ANJA
+LAR12ANJA
+LARLARANJAA
+LARlaranjaANJA
+LARovoANJA
+LARLARANJAANJA
+LAROVOANJA
+LAR_' ANJA
+LAR12ANJA
+LAROVO
+LARlaranjaANJA
+LARovoANJA
+LARLARANJAANJA
+LAROVOANJA
+LAR_' ANJA
+LAR12ANJA
+LARALARANJAJA
+LARAlaranjaNJA
+LARAovoNJA
+LARALARANJANJA
+LARAOVONJA
+LARA_' NJA
+LARA12NJA
+LARAlaranjaA
+LARAlaranjaNJA
+LARAovoNJA
+LARALARANJANJA
+LARAOVONJA
+LARA_' NJA
+LARA12NJA
+LARA12
+LARAlaranjaNJA
+LARAovoNJA
+LARALARANJANJA
+LARAOVONJA
+LARA_' NJA
+LARA12NJA
+LARANlaranjaA
+LARANlaranjaJA
+LARANovoJA
+LARANLARANJAJA
+LARANOVOJA
+LARAN_' JA
+LARAN12JA
+LARAN12
+LARANlaranjaJA
+LARANovoJA
+LARANLARANJAJA
+LARANOVOJA
+LARAN_' JA
+LARAN12JA
+LARANJOVO
+LARANJlaranjaA
+LARANJovoA
+LARANJLARANJAA
+LARANJOVOA
+LARANJ_' A
+LARANJ12A
+12VO
+laranjaOVO
+ovoOVO
+LARANJAOVO
+OVOOVO
+_' OVO
+12OVO
+LARANJAO
+laranjaOVO
+ovoOVO
+LARANJAOVO
+OVOOVO
+_' OVO
+12OVO
+_' 
+laranjaOVO
+ovoOVO
+LARANJAOVO
+OVOOVO
+_' OVO
+12OVO
+OLARANJAO
+OlaranjaVO
+OovoVO
+OLARANJAVO
+OOVOVO
+O_' VO
+O12VO
+OLARANJA
+OlaranjaVO
+OovoVO
+OLARANJAVO
+OOVOVO
+O_' VO
+O12VO
+OV12
+OVlaranjaO
+OVovoO
+OVLARANJAO
+OVOVOO
+OV_' O
+OV12O
+LARANJA' 
+laranja_' 
+ovo_' 
+LARANJA_' 
+OVO_' 
+_' _' 
+12_' 
+OVO 
+laranja_' 
+ovo_' 
+LARANJA_' 
+OVO_' 
+_' _' 
+12_' 
+12
+laranja_' 
+ovo_' 
+LARANJA_' 
+OVO_' 
+_' _' 
+12_' 
+_OVO 
+_laranja' 
+_ovo' 
+_LARANJA' 
+_OVO' 
+__' ' 
+_12' 
+_LARANJA
+_laranja' 
+_ovo' 
+_LARANJA' 
+_OVO' 
+__' ' 
+_12' 
+_'laranja
+_'laranja 
+_'ovo 
+_'LARANJA 
+_'OVO 
+_'_'  
+_'12 
+LARANJA2
+laranja12
+ovo12
+LARANJA12
+OVO12
+_' 12
+1212
+LARANJA
+laranja12
+ovo12
+LARANJA12
+OVO12
+_' 12
+1212
+1OVO
+1laranja2
+1ovo2
+1LARANJA2
+1OVO2
+1_' 2
+1122
